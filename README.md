@@ -1,4 +1,4 @@
-[![MasterHead](https://www.sneci.com/wp-content/uploads/2024/10/sneci-adas-system.jpg)
+![MasterHead](https://www.sneci.com/wp-content/uploads/2024/10/sneci-adas-system.jpg)
 <h1 align="center">I'm Recep Talha YALÇINKAYA</h1>
 <h3 align="center">AI & Computer Vision Developer | ADAS(Advanced Driving Assistant System) | Building autonoms & electric vehicles</h3>
 
