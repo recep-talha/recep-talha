@@ -1,5 +1,9 @@
 ![MasterHead](https://www.sneci.com/wp-content/uploads/2024/10/sneci-adas-system.jpg)
-<h1 align="center">I'm Recep Talha YALÇINKAYA</h1>
+<div align="center">
+ <a href="https://github.com/recep-talha">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Recep+Talha%e2%9c%a8;%f0%9f%92%bb+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
 <h3 align="center">AI & Computer Vision Developer | ADAS(Advanced Driving Assistant System) | Building autonoms & electric vehicles</h3>
 
 - 🔭 I’m currently working on [AI-powered ADAS for Electric Vehicles](https://github.com/recep-talha/ADAS)
